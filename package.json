@@ -1,0 +1,29 @@
+{
+  "name": "e2",
+  "version": "0.0.0",
+  "description": "Barco Folsom Switchers E2 Node.JS API Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/willosof/node-e2.git"
+  },
+  "keywords": [
+    "e2",
+    "encore",
+    "barco",
+    "folsom",
+    "switcher",
+    "scaler",
+    "api",
+    "xml"
+  ],
+  "author": "William Viker <william.viker@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willosof/node-e2/issues"
+  },
+  "homepage": "https://github.com/willosof/node-e2"
+}
