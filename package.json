@@ -25,5 +25,13 @@
   "bugs": {
     "url": "https://github.com/willosof/node-e2/issues"
   },
-  "homepage": "https://github.com/willosof/node-e2"
+  "homepage": "https://github.com/willosof/node-e2",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.1"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "net": "^1.0.2"
+  }
 }
