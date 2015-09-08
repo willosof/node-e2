@@ -1,12 +1,11 @@
 var debug				= require("debug")("e2-lib")
 var net					= require('net');
 var parseXML		= require('xml2js').parseString;
+var util		= require('util');
+var EventEmitter	= require('events').EventEmitter;
 
-module.exports = {
-	connect: function(host) {
-		debug("info","Well, we want to connect to",host)
-	}
-};
+exports = module.exports = e2;
+
 
 // Constructor
 function e2(param) {
@@ -30,6 +29,7 @@ function e2(param) {
 	this.client_version = "0.0.0";
 
 }
+util.inherits(e2, EventEmitter);
 
 // Give ourselves a better life.
 String.prototype.endsWith = function(suffix) { return this.indexOf(suffix, this.length - suffix.length) !== -1; };
@@ -47,7 +47,7 @@ Array.prototype.hack = function() {
 e2.prototype.connect = function(param) {
 
 	var client;
-	var e2 = this;
+	var self = this;
 	var buffer = "";
 
 	client = net.connect({
@@ -55,27 +55,27 @@ e2.prototype.connect = function(param) {
 		host: this.addr
 	}, function() {
 
-		this.client = client;
+		self.client = client;
 
 		client.write('<System id="0" reset="yes"><XMLType>3</XMLType><Query>3</Query><Recursive>1</Recursive></System>');
 
 		// så sier klienten: <System id="0"></System>
 		// og får svar fra vp: <System id="0" GUID=""><XMLType>4</XMLType><Resp>0</Resp></System>
 
-		param.success(1,"Connected to server");
+		self.emit('connected');
 	});
 
 	client.on('data', function(data) {
 		buffer += data.toString();
 		if (buffer.endsWith("</System>")) {
-			e2.process(client,buffer);
+			self.process(client,buffer);
 			buffer = "";
 		}
 	  //this.client.end();
 	});
 
 	client.on('end', function() {
-	  param.error(1,"Client disconnected / Socket closed")
+	  self.emit('error', "Client disconnected / Socket closed");
 	});
 
 };
@@ -121,7 +121,7 @@ e2.prototype.syncUp = function(data) {
 	);
 
 	console.log(
-		data.SystemTime[0].Hours,
+		data.SystemTime[0].Hours
  );
 
 
