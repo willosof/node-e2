@@ -1,7 +1,7 @@
 var debug				= require("debug")("e2-lib")
 var net					= require('net');
 var parseXML		= require('xml2js').parseString;
-var util		= require('util');
+var util				= require('util');
 var EventEmitter	= require('events').EventEmitter;
 
 exports = module.exports = e2;
@@ -9,13 +9,12 @@ exports = module.exports = e2;
 
 // Constructor
 function e2(param) {
-  // always initialize all instance properties
+
 	if (param == undefined) {
 		param = {};
 	}
 
   this.localaddr = param.localaddr ? param.localaddr : "0.0.0.0";
-
 	this.addr = param.addr ? param.addr : "10.20.30.10";
 	this.port = param.port ? param.port : "9876";
 	this.ready = param.ready != undefined ? param.ready : undefined;// function(){};
@@ -29,11 +28,13 @@ function e2(param) {
 	this.client_version = "0.0.0";
 
 }
+
 util.inherits(e2, EventEmitter);
 
 // Give ourselves a better life.
 String.prototype.endsWith = function(suffix) { return this.indexOf(suffix, this.length - suffix.length) !== -1; };
 Date.snow = function() { return this.now() / 1000; }
+
 Array.prototype.hack = function() {
 	if (this[0]['_'] != undefined) {
 		return this[0]['_'];
@@ -59,19 +60,18 @@ e2.prototype.connect = function(param) {
 
 		client.write('<System id="0" reset="yes"><XMLType>3</XMLType><Query>3</Query><Recursive>1</Recursive></System>');
 
-		// så sier klienten: <System id="0"></System>
-		// og får svar fra vp: <System id="0" GUID=""><XMLType>4</XMLType><Resp>0</Resp></System>
-
 		self.emit('connected');
 	});
 
 	client.on('data', function(data) {
+
 		buffer += data.toString();
+
 		if (buffer.endsWith("</System>")) {
 			self.process(client,buffer);
 			buffer = "";
 		}
-	  //this.client.end();
+
 	});
 
 	client.on('end', function() {
@@ -130,11 +130,15 @@ e2.prototype.syncUp = function(data) {
 };
 
 e2.prototype.process = function(client,data) {
+
 	var e2 = this;
+
 	if (data.endsWith('<System id="0" GUID=""><XMLType>4</XMLType><Resp>0</Resp></System>')) {
 		// keepalive garbage
 	}
+
 	else {
+
 		parseXML(data, function (err, r) {
 			if (r.System != undefined) {
 				var s = r.System;
@@ -148,6 +152,7 @@ e2.prototype.process = function(client,data) {
 				debug("process","missing System tag. Dunnowhat.")
 			}
 		});
+
 	}
 
 	this.keepaliveOK(client);
