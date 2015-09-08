@@ -4,39 +4,39 @@
   * AutoSave
   * VPID
   * MacAddress
-    * 0
+    * *(ArrayElement: 0)*
   * Name
-    * 0
+    * *(ArrayElement: 0)*
   * NativeRate
   * SysState
   * GuiId
-    * 0
+    * *(ArrayElement: 0)*
   * MasterResolve
-    * 0
+    * *(ArrayElement: 0)*
   * SrcMgr
-    * 0
+    * *(ArrayElement: 0)*
       * SourceCol
-        * 0
+        * *(ArrayElement: 0)*
           * Source
-            * 0
+            * *(ArrayElement: 0)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -52,25 +52,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 1
+            * *(ArrayElement: 1)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -86,25 +86,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 2
+            * *(ArrayElement: 2)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -120,25 +120,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 3
+            * *(ArrayElement: 3)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -154,25 +154,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 4
+            * *(ArrayElement: 4)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -188,25 +188,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 5
+            * *(ArrayElement: 5)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -222,25 +222,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 6
+            * *(ArrayElement: 6)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -256,25 +256,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 7
+            * *(ArrayElement: 7)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -290,25 +290,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 8
+            * *(ArrayElement: 8)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -324,25 +324,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 9
+            * *(ArrayElement: 9)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -358,25 +358,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 10
+            * *(ArrayElement: 10)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -392,25 +392,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 11
+            * *(ArrayElement: 11)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -426,25 +426,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 12
+            * *(ArrayElement: 12)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -460,25 +460,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 13
+            * *(ArrayElement: 13)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -494,25 +494,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 14
+            * *(ArrayElement: 14)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -528,25 +528,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 15
+            * *(ArrayElement: 15)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -562,25 +562,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 16
+            * *(ArrayElement: 16)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -596,25 +596,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 17
+            * *(ArrayElement: 17)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -630,25 +630,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 18
+            * *(ArrayElement: 18)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -664,25 +664,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 19
+            * *(ArrayElement: 19)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -698,25 +698,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 20
+            * *(ArrayElement: 20)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -732,25 +732,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 21
+            * *(ArrayElement: 21)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -766,25 +766,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 22
+            * *(ArrayElement: 22)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -800,25 +800,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 23
+            * *(ArrayElement: 23)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -834,25 +834,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 24
+            * *(ArrayElement: 24)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -868,25 +868,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 25
+            * *(ArrayElement: 25)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -902,25 +902,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 26
+            * *(ArrayElement: 26)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -936,25 +936,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 27
+            * *(ArrayElement: 27)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -970,25 +970,25 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 28
+            * *(ArrayElement: 28)*
               * InputCfgIndex
               * StillIndex
               * UserKeyIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * SrcType
               * DestIndex
               * AR
               * Error
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -1005,49 +1005,49 @@
                   * ColorRange
                   * Mono
       * BGSourceCol
-        * 0
+        * *(ArrayElement: 0)*
           * BGSource
-            * 0
+            * *(ArrayElement: 0)*
               * InputCfgIndex
               * StillIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * BGSrcType
               * HOverlap
               * VOverlap
               * HPos
               * VPos
               * Crop
-                * 0
+                * *(ArrayElement: 0)*
                   * CropLeft
                   * CropRight
                   * CropTop
                   * CropBottom
       * InputCfgCol
-        * 0
+        * *(ArrayElement: 0)*
           * InputCfg
-            * 0
+            * *(ArrayElement: 0)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -1056,7 +1056,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -1065,7 +1065,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -1074,7 +1074,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -1083,7 +1083,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -1092,7 +1092,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -1101,7 +1101,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -1110,7 +1110,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -1119,7 +1119,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -1128,7 +1128,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -1137,7 +1137,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -1146,7 +1146,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -1155,7 +1155,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -1164,7 +1164,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -1173,7 +1173,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -1182,7 +1182,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -1192,11 +1192,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -1207,19 +1207,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -1235,28 +1235,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 1
+            * *(ArrayElement: 1)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -1265,7 +1265,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -1274,7 +1274,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -1283,7 +1283,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -1292,7 +1292,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -1301,7 +1301,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -1310,7 +1310,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -1319,7 +1319,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -1328,7 +1328,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -1337,7 +1337,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -1346,7 +1346,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -1355,7 +1355,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -1364,7 +1364,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -1373,7 +1373,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -1382,7 +1382,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -1391,7 +1391,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -1401,11 +1401,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -1416,19 +1416,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -1444,28 +1444,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 2
+            * *(ArrayElement: 2)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -1474,7 +1474,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -1483,7 +1483,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -1492,7 +1492,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -1501,7 +1501,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -1510,7 +1510,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -1519,7 +1519,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -1528,7 +1528,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -1537,7 +1537,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -1546,7 +1546,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -1555,7 +1555,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -1564,7 +1564,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -1573,7 +1573,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -1582,7 +1582,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -1591,7 +1591,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -1600,7 +1600,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -1610,11 +1610,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -1625,19 +1625,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -1653,28 +1653,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 3
+            * *(ArrayElement: 3)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -1683,7 +1683,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -1692,7 +1692,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -1701,7 +1701,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -1710,7 +1710,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -1719,7 +1719,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -1728,7 +1728,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -1737,7 +1737,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -1746,7 +1746,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -1755,7 +1755,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -1764,7 +1764,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -1773,7 +1773,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -1782,7 +1782,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -1791,7 +1791,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -1800,7 +1800,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -1809,7 +1809,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -1819,11 +1819,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -1834,19 +1834,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -1862,28 +1862,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 4
+            * *(ArrayElement: 4)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -1892,7 +1892,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -1901,7 +1901,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -1910,7 +1910,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -1919,7 +1919,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -1928,7 +1928,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -1937,7 +1937,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -1946,7 +1946,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -1955,7 +1955,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -1964,7 +1964,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -1973,7 +1973,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -1982,7 +1982,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -1991,7 +1991,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -2000,7 +2000,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -2009,7 +2009,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -2018,7 +2018,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -2028,11 +2028,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -2043,19 +2043,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -2071,28 +2071,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 5
+            * *(ArrayElement: 5)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -2101,7 +2101,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -2110,7 +2110,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -2119,7 +2119,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -2128,7 +2128,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -2137,7 +2137,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -2146,7 +2146,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -2155,7 +2155,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -2164,7 +2164,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -2173,7 +2173,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -2182,7 +2182,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -2191,7 +2191,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -2200,7 +2200,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -2209,7 +2209,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -2218,7 +2218,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -2227,7 +2227,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -2237,11 +2237,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -2252,19 +2252,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -2280,28 +2280,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 6
+            * *(ArrayElement: 6)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -2310,7 +2310,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -2319,7 +2319,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -2328,7 +2328,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -2337,7 +2337,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -2346,7 +2346,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -2355,7 +2355,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -2364,7 +2364,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -2373,7 +2373,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -2382,7 +2382,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -2391,7 +2391,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -2400,7 +2400,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -2409,7 +2409,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -2418,7 +2418,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -2427,7 +2427,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -2436,7 +2436,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -2446,11 +2446,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -2461,19 +2461,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -2489,28 +2489,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 7
+            * *(ArrayElement: 7)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -2519,7 +2519,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -2528,7 +2528,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -2537,7 +2537,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -2546,7 +2546,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -2555,7 +2555,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -2564,7 +2564,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -2573,7 +2573,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -2582,7 +2582,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -2591,7 +2591,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -2600,7 +2600,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -2609,7 +2609,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -2618,7 +2618,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -2627,7 +2627,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -2636,7 +2636,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -2645,7 +2645,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -2655,11 +2655,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -2670,19 +2670,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -2698,28 +2698,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 8
+            * *(ArrayElement: 8)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -2728,7 +2728,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -2737,7 +2737,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -2746,7 +2746,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -2755,7 +2755,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -2764,7 +2764,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -2773,7 +2773,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -2782,7 +2782,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -2791,7 +2791,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -2800,7 +2800,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -2809,7 +2809,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -2818,7 +2818,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -2827,7 +2827,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -2836,7 +2836,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -2845,7 +2845,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -2854,7 +2854,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -2864,11 +2864,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -2879,19 +2879,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -2907,28 +2907,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 9
+            * *(ArrayElement: 9)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -2937,7 +2937,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -2946,7 +2946,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -2955,7 +2955,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -2964,7 +2964,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -2973,7 +2973,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -2982,7 +2982,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -2991,7 +2991,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -3000,7 +3000,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -3009,7 +3009,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -3018,7 +3018,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -3027,7 +3027,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -3036,7 +3036,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -3045,7 +3045,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -3054,7 +3054,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -3063,7 +3063,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -3073,11 +3073,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -3088,19 +3088,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -3116,28 +3116,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 10
+            * *(ArrayElement: 10)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -3146,7 +3146,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -3155,7 +3155,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -3164,7 +3164,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -3173,7 +3173,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -3182,7 +3182,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -3191,7 +3191,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -3200,7 +3200,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -3209,7 +3209,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -3218,7 +3218,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -3227,7 +3227,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -3236,7 +3236,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -3245,7 +3245,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -3254,7 +3254,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -3263,7 +3263,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -3272,7 +3272,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -3282,11 +3282,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -3297,19 +3297,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -3325,28 +3325,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 11
+            * *(ArrayElement: 11)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -3355,7 +3355,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -3364,7 +3364,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -3373,7 +3373,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -3382,7 +3382,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -3391,7 +3391,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -3400,7 +3400,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -3409,7 +3409,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -3418,7 +3418,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -3427,7 +3427,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -3436,7 +3436,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -3445,7 +3445,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -3454,7 +3454,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -3463,7 +3463,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -3472,7 +3472,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -3481,7 +3481,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -3491,11 +3491,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -3506,19 +3506,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -3534,28 +3534,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 12
+            * *(ArrayElement: 12)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -3564,7 +3564,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -3573,7 +3573,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -3582,7 +3582,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -3591,7 +3591,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -3600,7 +3600,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -3609,7 +3609,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -3618,7 +3618,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -3627,7 +3627,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -3636,7 +3636,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -3645,7 +3645,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -3654,7 +3654,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -3663,7 +3663,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -3672,7 +3672,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -3681,7 +3681,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -3690,7 +3690,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -3700,11 +3700,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -3715,19 +3715,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -3743,28 +3743,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 13
+            * *(ArrayElement: 13)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -3773,7 +3773,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -3782,7 +3782,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -3791,7 +3791,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -3800,7 +3800,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -3809,7 +3809,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -3818,7 +3818,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -3827,7 +3827,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -3836,7 +3836,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -3845,7 +3845,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -3854,7 +3854,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -3863,7 +3863,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -3872,7 +3872,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -3881,7 +3881,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -3890,7 +3890,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -3899,7 +3899,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -3909,11 +3909,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -3924,19 +3924,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -3952,28 +3952,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 14
+            * *(ArrayElement: 14)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -3982,7 +3982,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -3991,7 +3991,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -4000,7 +4000,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -4009,7 +4009,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -4018,7 +4018,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -4027,7 +4027,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -4036,7 +4036,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -4045,7 +4045,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -4054,7 +4054,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -4063,7 +4063,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -4072,7 +4072,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -4081,7 +4081,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -4090,7 +4090,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -4099,7 +4099,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -4108,7 +4108,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -4118,11 +4118,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -4133,19 +4133,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -4161,28 +4161,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 15
+            * *(ArrayElement: 15)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -4191,7 +4191,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -4200,7 +4200,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -4209,7 +4209,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -4218,7 +4218,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -4227,7 +4227,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -4236,7 +4236,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -4245,7 +4245,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -4254,7 +4254,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -4263,7 +4263,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -4272,7 +4272,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -4281,7 +4281,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -4290,7 +4290,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -4299,7 +4299,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -4308,7 +4308,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -4317,7 +4317,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -4327,11 +4327,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -4342,19 +4342,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -4370,28 +4370,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 16
+            * *(ArrayElement: 16)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -4400,7 +4400,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -4409,7 +4409,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -4418,7 +4418,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -4427,7 +4427,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -4436,7 +4436,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -4445,7 +4445,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -4454,7 +4454,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -4463,7 +4463,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -4472,7 +4472,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -4481,7 +4481,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -4490,7 +4490,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -4499,7 +4499,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -4508,7 +4508,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -4517,7 +4517,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -4526,7 +4526,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -4536,11 +4536,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -4551,19 +4551,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -4579,28 +4579,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 17
+            * *(ArrayElement: 17)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -4609,7 +4609,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -4618,7 +4618,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -4627,7 +4627,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -4636,7 +4636,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -4645,7 +4645,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -4654,7 +4654,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -4663,7 +4663,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -4672,7 +4672,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -4681,7 +4681,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -4690,7 +4690,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -4699,7 +4699,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -4708,7 +4708,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -4717,7 +4717,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -4726,7 +4726,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -4735,7 +4735,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -4745,11 +4745,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -4760,19 +4760,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -4788,28 +4788,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 18
+            * *(ArrayElement: 18)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -4818,7 +4818,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -4827,7 +4827,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -4836,7 +4836,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -4845,7 +4845,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -4854,7 +4854,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -4863,7 +4863,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -4872,7 +4872,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -4881,7 +4881,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -4890,7 +4890,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -4899,7 +4899,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -4908,7 +4908,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -4917,7 +4917,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -4926,7 +4926,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -4935,7 +4935,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -4944,7 +4944,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -4954,11 +4954,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -4969,19 +4969,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -4997,28 +4997,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 19
+            * *(ArrayElement: 19)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -5027,7 +5027,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -5036,7 +5036,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -5045,7 +5045,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -5054,7 +5054,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -5063,7 +5063,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -5072,7 +5072,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -5081,7 +5081,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -5090,7 +5090,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -5099,7 +5099,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -5108,7 +5108,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -5117,7 +5117,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -5126,7 +5126,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -5135,7 +5135,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -5144,7 +5144,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -5153,7 +5153,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -5163,11 +5163,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -5178,19 +5178,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -5206,28 +5206,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 20
+            * *(ArrayElement: 20)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -5236,7 +5236,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -5245,7 +5245,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -5254,7 +5254,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -5263,7 +5263,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -5272,7 +5272,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -5281,7 +5281,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -5290,7 +5290,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -5299,7 +5299,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -5308,7 +5308,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -5317,7 +5317,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -5326,7 +5326,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -5335,7 +5335,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -5344,7 +5344,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -5353,7 +5353,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -5362,7 +5362,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -5372,11 +5372,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -5387,19 +5387,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -5415,28 +5415,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 21
+            * *(ArrayElement: 21)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -5445,7 +5445,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -5454,7 +5454,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -5463,7 +5463,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -5472,7 +5472,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -5481,7 +5481,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -5490,7 +5490,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -5499,7 +5499,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -5508,7 +5508,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -5517,7 +5517,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -5526,7 +5526,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -5535,7 +5535,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -5544,7 +5544,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -5553,7 +5553,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -5562,7 +5562,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -5571,7 +5571,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -5581,11 +5581,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -5596,19 +5596,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -5624,28 +5624,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 22
+            * *(ArrayElement: 22)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -5654,7 +5654,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -5663,7 +5663,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -5672,7 +5672,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -5681,7 +5681,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -5690,7 +5690,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -5699,7 +5699,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -5708,7 +5708,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -5717,7 +5717,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -5726,7 +5726,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -5735,7 +5735,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -5744,7 +5744,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -5753,7 +5753,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -5762,7 +5762,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -5771,7 +5771,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -5780,7 +5780,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -5790,11 +5790,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -5805,19 +5805,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -5833,28 +5833,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 23
+            * *(ArrayElement: 23)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -5863,7 +5863,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -5872,7 +5872,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -5881,7 +5881,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -5890,7 +5890,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -5899,7 +5899,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -5908,7 +5908,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -5917,7 +5917,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -5926,7 +5926,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -5935,7 +5935,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -5944,7 +5944,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -5953,7 +5953,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -5962,7 +5962,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -5971,7 +5971,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -5980,7 +5980,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -5989,7 +5989,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -5999,11 +5999,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -6014,19 +6014,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -6042,28 +6042,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 24
+            * *(ArrayElement: 24)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -6072,7 +6072,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -6081,7 +6081,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -6090,7 +6090,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -6099,7 +6099,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -6108,7 +6108,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -6117,7 +6117,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -6126,7 +6126,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -6135,7 +6135,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -6144,7 +6144,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -6153,7 +6153,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -6162,7 +6162,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -6171,7 +6171,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -6180,7 +6180,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -6189,7 +6189,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -6198,7 +6198,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -6208,11 +6208,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -6223,19 +6223,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -6251,28 +6251,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 25
+            * *(ArrayElement: 25)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -6281,7 +6281,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -6290,7 +6290,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -6299,7 +6299,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -6308,7 +6308,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -6317,7 +6317,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -6326,7 +6326,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -6335,7 +6335,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -6344,7 +6344,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -6353,7 +6353,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -6362,7 +6362,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -6371,7 +6371,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -6380,7 +6380,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -6389,7 +6389,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -6398,7 +6398,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -6407,7 +6407,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -6417,11 +6417,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -6432,19 +6432,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -6460,28 +6460,28 @@
                   * ColorSpace
                   * ColorRange
                   * Mono
-            * 26
+            * *(ArrayElement: 26)*
               * InputCfgType
               * InputCfgInputNameId
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * AutoAcqMode
               * Motion
               * Type3G
               * InputCfgVideoStatus
               * FrzMode
               * Config
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Owner
-                    * 0
+                    * *(ArrayElement: 0)*
                   * Contact
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ConnMapOrient
                   * ConfigStatus
                   * ConnMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * InUse
                       * VPID
                       * CardType
@@ -6490,7 +6490,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * InUse
                       * VPID
                       * CardType
@@ -6499,7 +6499,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * InUse
                       * VPID
                       * CardType
@@ -6508,7 +6508,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 3
+                    * *(ArrayElement: 3)*
                       * InUse
                       * VPID
                       * CardType
@@ -6517,7 +6517,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 4
+                    * *(ArrayElement: 4)*
                       * InUse
                       * VPID
                       * CardType
@@ -6526,7 +6526,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 5
+                    * *(ArrayElement: 5)*
                       * InUse
                       * VPID
                       * CardType
@@ -6535,7 +6535,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 6
+                    * *(ArrayElement: 6)*
                       * InUse
                       * VPID
                       * CardType
@@ -6544,7 +6544,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 7
+                    * *(ArrayElement: 7)*
                       * InUse
                       * VPID
                       * CardType
@@ -6553,7 +6553,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 8
+                    * *(ArrayElement: 8)*
                       * InUse
                       * VPID
                       * CardType
@@ -6562,7 +6562,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 9
+                    * *(ArrayElement: 9)*
                       * InUse
                       * VPID
                       * CardType
@@ -6571,7 +6571,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 10
+                    * *(ArrayElement: 10)*
                       * InUse
                       * VPID
                       * CardType
@@ -6580,7 +6580,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 11
+                    * *(ArrayElement: 11)*
                       * InUse
                       * VPID
                       * CardType
@@ -6589,7 +6589,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 12
+                    * *(ArrayElement: 12)*
                       * InUse
                       * VPID
                       * CardType
@@ -6598,7 +6598,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 13
+                    * *(ArrayElement: 13)*
                       * InUse
                       * VPID
                       * CardType
@@ -6607,7 +6607,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 14
+                    * *(ArrayElement: 14)*
                       * InUse
                       * VPID
                       * CardType
@@ -6616,7 +6616,7 @@
                       * ConnectorIndex
                       * SlotIndex
                       * Error
-                    * 15
+                    * *(ArrayElement: 15)*
                       * InUse
                       * VPID
                       * CardType
@@ -6626,11 +6626,11 @@
                       * SlotIndex
                       * Error
                   * VideoFormat
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HFreq
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSync
                       * HActive
                       * HFP
@@ -6641,19 +6641,19 @@
                       * VFP
                       * VTotal
                       * PixelClk
-                        * 0
+                        * *(ArrayElement: 0)*
                       * HSP
                       * VSP
                       * AR
                       * Interlaced
-                        * 0
+                        * *(ArrayElement: 0)*
                       * VFType
                       * VFEnum
                       * VFStdFrom
                       * VFStdNum
-                        * 0
+                        * *(ArrayElement: 0)*
               * VideoColor
-                * 0
+                * *(ArrayElement: 0)*
                   * Hue
                   * Sat
                   * Bright
@@ -6670,40 +6670,40 @@
                   * ColorRange
                   * Mono
   * DestMgr
-    * 0
+    * *(ArrayElement: 0)*
       * AuxDestCol
-        * 0
+        * *(ArrayElement: 0)*
           * AuxDest
-            * 0
+            * *(ArrayElement: 0)*
               * IsActive
               * AuxStreamMode
               * OutCfgIndex
               * PvwLastSrcIndex
               * PgmLastSrcIndex
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * ToggleMode
               * HdcpMode
               * Source
-                * 0
+                * *(ArrayElement: 0)*
                   * InputCfgIndex
                   * StillIndex
                   * UserKeyIndex
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * SrcType
                   * DestIndex
                   * AR
                   * Error
                   * AOIRect
-                    * 0
+                    * *(ArrayElement: 0)*
                       * HPos
                       * VPos
                       * HSize
                       * VSize
                       * AR
                   * VideoColor
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Hue
                       * Sat
                       * Bright
@@ -6719,25 +6719,25 @@
                       * ColorSpace
                       * ColorRange
                       * Mono
-                * 1
+                * *(ArrayElement: 1)*
                   * InputCfgIndex
                   * StillIndex
                   * UserKeyIndex
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * SrcType
                   * DestIndex
                   * AR
                   * Error
                   * AOIRect
-                    * 0
+                    * *(ArrayElement: 0)*
                       * HPos
                       * VPos
                       * HSize
                       * VSize
                       * AR
                   * VideoColor
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Hue
                       * Sat
                       * Bright
@@ -6754,7 +6754,7 @@
                       * ColorRange
                       * Mono
               * Transition
-                * 0
+                * *(ArrayElement: 0)*
                   * TransTime
                   * TransPos
                   * TransCurve
@@ -6765,11 +6765,11 @@
                   * AutoTransInProg
                   * TransInProg
               * VideoFormat
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HFreq
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSync
                   * HActive
                   * HFP
@@ -6780,25 +6780,25 @@
                   * VFP
                   * VTotal
                   * PixelClk
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSP
                   * VSP
                   * AR
                   * Interlaced
-                    * 0
+                    * *(ArrayElement: 0)*
                   * VFType
                   * VFEnum
                   * VFStdFrom
                   * VFStdNum
-                    * 0
+                    * *(ArrayElement: 0)*
       * ScreenDestCol
-        * 0
+        * *(ArrayElement: 0)*
           * ScreenDest
-            * 0
+            * *(ArrayElement: 0)*
               * IsActive
               * CurrBGLyr
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * ToggleMode
               * HdcpMode
               * HSize
@@ -6807,28 +6807,28 @@
               * VDimension
               * AvlSclr
               * BGLyr
-                * 0
+                * *(ArrayElement: 0)*
                   * LastBGSourceIndex
                   * BGShowMatte
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * BGColor
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
-                * 1
+                * *(ArrayElement: 1)*
                   * LastBGSourceIndex
                   * BGShowMatte
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * BGColor
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
               * Transition
-                * 0
+                * *(ArrayElement: 0)*
                   * TransTime
                   * TransPos
                   * TransCurve
@@ -6838,7 +6838,7 @@
                   * TBarDead
                   * AutoTransInProg
                   * TransInProg
-                * 1
+                * *(ArrayElement: 1)*
                   * TransTime
                   * TransPos
                   * TransCurve
@@ -6849,11 +6849,11 @@
                   * AutoTransInProg
                   * TransInProg
               * VideoFormat
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HFreq
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSync
                   * HActive
                   * HFP
@@ -6864,30 +6864,30 @@
                   * VFP
                   * VTotal
                   * PixelClk
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSP
                   * VSP
                   * AR
                   * Interlaced
-                    * 0
+                    * *(ArrayElement: 0)*
                   * VFType
                   * VFEnum
                   * VFStdFrom
                   * VFStdNum
-                    * 0
+                    * *(ArrayElement: 0)*
               * DestOutMapCol
-                * 0
+                * *(ArrayElement: 0)*
                   * DestOutMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * OutCfgIndex
                       * CanvasIndex
                       * HPos
                       * VPos
                       * Error
               * LayerCollection
-                * 0
+                * *(ArrayElement: 0)*
                   * Layer
-                    * 0
+                    * *(ArrayElement: 0)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -6895,35 +6895,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -6940,90 +6940,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -7039,90 +7039,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -7139,7 +7139,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -7149,7 +7149,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -7159,7 +7159,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                    * 1
+                    * *(ArrayElement: 1)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -7167,35 +7167,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -7212,90 +7212,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -7311,90 +7311,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -7411,7 +7411,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -7421,7 +7421,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -7431,7 +7431,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                    * 2
+                    * *(ArrayElement: 2)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -7439,35 +7439,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -7484,90 +7484,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -7583,90 +7583,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -7683,7 +7683,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -7693,7 +7693,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -7703,7 +7703,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                    * 3
+                    * *(ArrayElement: 3)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -7711,35 +7711,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -7756,90 +7756,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -7855,90 +7855,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -7955,7 +7955,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -7965,7 +7965,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -7976,25 +7976,25 @@
                               * AutoTransInProg
                               * TransInProg
               * MixerCollection
-                * 0
+                * *(ArrayElement: 0)*
                   * Mixer
-                    * 0
+                    * *(ArrayElement: 0)*
                       * LayerAIndex
                       * SplitMode
                       * JoinMode
                       * ToggleMode
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * LayerAIndex
                       * SplitMode
                       * JoinMode
                       * ToggleMode
                       * Error
-            * 1
+            * *(ArrayElement: 1)*
               * IsActive
               * CurrBGLyr
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * ToggleMode
               * HdcpMode
               * HSize
@@ -8003,28 +8003,28 @@
               * VDimension
               * AvlSclr
               * BGLyr
-                * 0
+                * *(ArrayElement: 0)*
                   * LastBGSourceIndex
                   * BGShowMatte
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * BGColor
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
-                * 1
+                * *(ArrayElement: 1)*
                   * LastBGSourceIndex
                   * BGShowMatte
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * BGColor
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
               * Transition
-                * 0
+                * *(ArrayElement: 0)*
                   * TransTime
                   * TransPos
                   * TransCurve
@@ -8034,7 +8034,7 @@
                   * TBarDead
                   * AutoTransInProg
                   * TransInProg
-                * 1
+                * *(ArrayElement: 1)*
                   * TransTime
                   * TransPos
                   * TransCurve
@@ -8045,11 +8045,11 @@
                   * AutoTransInProg
                   * TransInProg
               * VideoFormat
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HFreq
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSync
                   * HActive
                   * HFP
@@ -8060,30 +8060,30 @@
                   * VFP
                   * VTotal
                   * PixelClk
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSP
                   * VSP
                   * AR
                   * Interlaced
-                    * 0
+                    * *(ArrayElement: 0)*
                   * VFType
                   * VFEnum
                   * VFStdFrom
                   * VFStdNum
-                    * 0
+                    * *(ArrayElement: 0)*
               * DestOutMapCol
-                * 0
+                * *(ArrayElement: 0)*
                   * DestOutMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * OutCfgIndex
                       * CanvasIndex
                       * HPos
                       * VPos
                       * Error
               * LayerCollection
-                * 0
+                * *(ArrayElement: 0)*
                   * Layer
-                    * 0
+                    * *(ArrayElement: 0)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -8091,35 +8091,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -8136,90 +8136,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -8235,90 +8235,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -8335,7 +8335,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -8345,7 +8345,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -8355,7 +8355,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                    * 1
+                    * *(ArrayElement: 1)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -8363,35 +8363,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -8408,90 +8408,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -8507,90 +8507,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -8607,7 +8607,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -8617,7 +8617,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -8627,7 +8627,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                    * 2
+                    * *(ArrayElement: 2)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -8635,35 +8635,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -8680,90 +8680,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -8779,90 +8779,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -8879,7 +8879,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -8889,7 +8889,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -8899,7 +8899,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                    * 3
+                    * *(ArrayElement: 3)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -8907,35 +8907,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -8952,90 +8952,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -9051,90 +9051,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -9151,7 +9151,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -9161,7 +9161,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -9171,7 +9171,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                    * 4
+                    * *(ArrayElement: 4)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -9179,35 +9179,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -9224,90 +9224,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -9323,90 +9323,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -9423,7 +9423,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -9433,7 +9433,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -9443,7 +9443,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                    * 5
+                    * *(ArrayElement: 5)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -9451,35 +9451,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -9496,90 +9496,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -9595,90 +9595,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -9695,7 +9695,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -9705,7 +9705,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -9716,31 +9716,31 @@
                               * AutoTransInProg
                               * TransInProg
               * MixerCollection
-                * 0
+                * *(ArrayElement: 0)*
                   * Mixer
-                    * 0
+                    * *(ArrayElement: 0)*
                       * LayerAIndex
                       * SplitMode
                       * JoinMode
                       * ToggleMode
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * LayerAIndex
                       * SplitMode
                       * JoinMode
                       * ToggleMode
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * LayerAIndex
                       * SplitMode
                       * JoinMode
                       * ToggleMode
                       * Error
-            * 2
+            * *(ArrayElement: 2)*
               * IsActive
               * CurrBGLyr
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * ToggleMode
               * HdcpMode
               * HSize
@@ -9749,28 +9749,28 @@
               * VDimension
               * AvlSclr
               * BGLyr
-                * 0
+                * *(ArrayElement: 0)*
                   * LastBGSourceIndex
                   * BGShowMatte
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * BGColor
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
-                * 1
+                * *(ArrayElement: 1)*
                   * LastBGSourceIndex
                   * BGShowMatte
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * BGColor
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
               * Transition
-                * 0
+                * *(ArrayElement: 0)*
                   * TransTime
                   * TransPos
                   * TransCurve
@@ -9780,7 +9780,7 @@
                   * TBarDead
                   * AutoTransInProg
                   * TransInProg
-                * 1
+                * *(ArrayElement: 1)*
                   * TransTime
                   * TransPos
                   * TransCurve
@@ -9791,11 +9791,11 @@
                   * AutoTransInProg
                   * TransInProg
               * VideoFormat
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HFreq
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSync
                   * HActive
                   * HFP
@@ -9806,36 +9806,36 @@
                   * VFP
                   * VTotal
                   * PixelClk
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSP
                   * VSP
                   * AR
                   * Interlaced
-                    * 0
+                    * *(ArrayElement: 0)*
                   * VFType
                   * VFEnum
                   * VFStdFrom
                   * VFStdNum
-                    * 0
+                    * *(ArrayElement: 0)*
               * DestOutMapCol
-                * 0
+                * *(ArrayElement: 0)*
                   * DestOutMap
-                    * 0
+                    * *(ArrayElement: 0)*
                       * OutCfgIndex
                       * CanvasIndex
                       * HPos
                       * VPos
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * OutCfgIndex
                       * CanvasIndex
                       * HPos
                       * VPos
                       * Error
               * LayerCollection
-                * 0
+                * *(ArrayElement: 0)*
                   * Layer
-                    * 0
+                    * *(ArrayElement: 0)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -9843,35 +9843,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -9888,90 +9888,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -9987,90 +9987,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -10087,7 +10087,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -10097,7 +10097,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -10107,7 +10107,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                    * 1
+                    * *(ArrayElement: 1)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -10115,35 +10115,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -10160,90 +10160,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -10259,90 +10259,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -10359,7 +10359,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -10369,7 +10369,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -10379,7 +10379,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                    * 2
+                    * *(ArrayElement: 2)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -10387,35 +10387,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -10432,90 +10432,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -10531,90 +10531,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -10631,7 +10631,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -10641,7 +10641,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -10651,7 +10651,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                    * 3
+                    * *(ArrayElement: 3)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -10659,35 +10659,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -10704,90 +10704,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -10803,90 +10803,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -10903,7 +10903,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -10913,7 +10913,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -10923,7 +10923,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                    * 4
+                    * *(ArrayElement: 4)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -10931,35 +10931,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -10976,90 +10976,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -11075,90 +11075,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -11175,7 +11175,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -11185,7 +11185,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -11195,7 +11195,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                    * 5
+                    * *(ArrayElement: 5)*
                       * PgmMode
                       * PvwMode
                       * SrcSwitch
@@ -11203,35 +11203,35 @@
                       * LastSrcIdx
                       * LastUserKeyIdx
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * Error
                       * LayerCfg
-                        * 0
+                        * *(ArrayElement: 0)*
                           * LayerMode
                           * NumOfStates
                           * ActiveState
                           * UseEfxColor
                           * FrzMode
                           * Source
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InputCfgIndex
                               * StillIndex
                               * UserKeyIndex
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * SrcType
                               * DestIndex
                               * AR
                               * Error
                               * AOIRect
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * HPos
                                   * VPos
                                   * HSize
                                   * VSize
                                   * AR
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -11248,90 +11248,90 @@
                                   * ColorRange
                                   * Mono
                           * LayerState
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -11347,90 +11347,90 @@
                                   * ColorSpace
                                   * ColorRange
                                   * Mono
-                            * 1
+                            * *(ArrayElement: 1)*
                               * Flip
                               * StrobeMode
                               * StrobeInt
                               * Key
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * KeyType
                                   * Clip
                                   * Gain
                                   * Opacity
                                   * FillType
                                   * Color
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Red
                                       * Green
                                       * Blue
                               * PIP
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Border
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * UnitType
                                       * BrdrPixel
                                       * BrdrPercent
                                       * BrdrTyp
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                                   * Shadow
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Mode
                                       * Opacity
                                       * EdgeWidth
                                       * Rect
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * HPos
                                           * VPos
                                           * HSize
                                           * VSize
                                           * AR
                                       * Color
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                           * Red
                                           * Green
                                           * Blue
                               * WinAdjust
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * IWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * Mask
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Left
                                       * Right
                                       * Top
                                       * Bottom
                                   * OWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                       * AR
                                   * PostMaskIWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                                   * PostMaskOWIN
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * AR
                                       * HPos
                                       * VPos
                                       * HSize
                                       * VSize
                               * VideoColor
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Hue
                                   * Sat
                                   * Bright
@@ -11447,7 +11447,7 @@
                                   * ColorRange
                                   * Mono
                           * Transition
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -11457,7 +11457,7 @@
                               * TBarDead
                               * AutoTransInProg
                               * TransInProg
-                            * 1
+                            * *(ArrayElement: 1)*
                               * TransTime
                               * TransPos
                               * TransCurve
@@ -11468,63 +11468,63 @@
                               * AutoTransInProg
                               * TransInProg
               * MixerCollection
-                * 0
+                * *(ArrayElement: 0)*
                   * Mixer
-                    * 0
+                    * *(ArrayElement: 0)*
                       * LayerAIndex
                       * SplitMode
                       * JoinMode
                       * ToggleMode
                       * Error
-                    * 1
+                    * *(ArrayElement: 1)*
                       * LayerAIndex
                       * SplitMode
                       * JoinMode
                       * ToggleMode
                       * Error
-                    * 2
+                    * *(ArrayElement: 2)*
                       * LayerAIndex
                       * SplitMode
                       * JoinMode
                       * ToggleMode
                       * Error
   * Genlock
-    * 0
+    * *(ArrayElement: 0)*
       * LockSrc
       * OutHPhase
       * OutVPhase
       * LockMode
-        * 0
+        * *(ArrayElement: 0)*
       * Locked
       * VFreq
   * StillMgr
-    * 0
+    * *(ArrayElement: 0)*
       * Error
       * Loading
   * OutCfgMgr
-    * 0
+    * *(ArrayElement: 0)*
       * OutputCfg
-        * 0
+        * *(ArrayElement: 0)*
           * Name
-            * 0
+            * *(ArrayElement: 0)*
           * AutoConfigStatus
           * Conn
-            * 0
+            * *(ArrayElement: 0)*
               * SyncPol
               * BitDepth
               * SampleMode
           * Config
-            * 0
+            * *(ArrayElement: 0)*
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * Owner
-                * 0
+                * *(ArrayElement: 0)*
               * Contact
-                * 0
+                * *(ArrayElement: 0)*
               * ConnMapOrient
               * ConfigStatus
               * ConnMap
-                * 0
+                * *(ArrayElement: 0)*
                   * InUse
                   * VPID
                   * CardType
@@ -11533,7 +11533,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 1
+                * *(ArrayElement: 1)*
                   * InUse
                   * VPID
                   * CardType
@@ -11542,7 +11542,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 2
+                * *(ArrayElement: 2)*
                   * InUse
                   * VPID
                   * CardType
@@ -11551,7 +11551,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 3
+                * *(ArrayElement: 3)*
                   * InUse
                   * VPID
                   * CardType
@@ -11560,7 +11560,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 4
+                * *(ArrayElement: 4)*
                   * InUse
                   * VPID
                   * CardType
@@ -11569,7 +11569,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 5
+                * *(ArrayElement: 5)*
                   * InUse
                   * VPID
                   * CardType
@@ -11578,7 +11578,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 6
+                * *(ArrayElement: 6)*
                   * InUse
                   * VPID
                   * CardType
@@ -11587,7 +11587,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 7
+                * *(ArrayElement: 7)*
                   * InUse
                   * VPID
                   * CardType
@@ -11596,7 +11596,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 8
+                * *(ArrayElement: 8)*
                   * InUse
                   * VPID
                   * CardType
@@ -11605,7 +11605,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 9
+                * *(ArrayElement: 9)*
                   * InUse
                   * VPID
                   * CardType
@@ -11614,7 +11614,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 10
+                * *(ArrayElement: 10)*
                   * InUse
                   * VPID
                   * CardType
@@ -11623,7 +11623,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 11
+                * *(ArrayElement: 11)*
                   * InUse
                   * VPID
                   * CardType
@@ -11632,7 +11632,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 12
+                * *(ArrayElement: 12)*
                   * InUse
                   * VPID
                   * CardType
@@ -11641,7 +11641,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 13
+                * *(ArrayElement: 13)*
                   * InUse
                   * VPID
                   * CardType
@@ -11650,7 +11650,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 14
+                * *(ArrayElement: 14)*
                   * InUse
                   * VPID
                   * CardType
@@ -11659,7 +11659,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 15
+                * *(ArrayElement: 15)*
                   * InUse
                   * VPID
                   * CardType
@@ -11669,11 +11669,11 @@
                   * SlotIndex
                   * Error
               * VideoFormat
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HFreq
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSync
                   * HActive
                   * HFP
@@ -11684,60 +11684,60 @@
                   * VFP
                   * VTotal
                   * PixelClk
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSP
                   * VSP
                   * AR
                   * Interlaced
-                    * 0
+                    * *(ArrayElement: 0)*
                   * VFType
                   * VFEnum
                   * VFStdFrom
                   * VFStdNum
-                    * 0
+                    * *(ArrayElement: 0)*
           * OutputAOI
-            * 0
+            * *(ArrayElement: 0)*
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * RasterBox
-                * 0
+                * *(ArrayElement: 0)*
                   * Mode
               * TestPattern
-                * 0
+                * *(ArrayElement: 0)*
                   * TestPatternMode
                   * DiagMotion
                   * Color
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
           * RasterBox
-            * 0
+            * *(ArrayElement: 0)*
               * Mode
           * Feathering
-            * 0
+            * *(ArrayElement: 0)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 1
+            * *(ArrayElement: 1)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 2
+            * *(ArrayElement: 2)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 3
+            * *(ArrayElement: 3)*
               * Mode
               * Gamma
               * EdgeWidth
           * VideoColor
-            * 0
+            * *(ArrayElement: 0)*
               * Hue
               * Sat
               * Bright
@@ -11754,35 +11754,35 @@
               * ColorRange
               * Mono
           * TestPattern
-            * 0
+            * *(ArrayElement: 0)*
               * TestPatternMode
               * DiagMotion
               * Color
-                * 0
+                * *(ArrayElement: 0)*
                   * Red
                   * Green
                   * Blue
-        * 1
+        * *(ArrayElement: 1)*
           * Name
-            * 0
+            * *(ArrayElement: 0)*
           * AutoConfigStatus
           * Conn
-            * 0
+            * *(ArrayElement: 0)*
               * SyncPol
               * BitDepth
               * SampleMode
           * Config
-            * 0
+            * *(ArrayElement: 0)*
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * Owner
-                * 0
+                * *(ArrayElement: 0)*
               * Contact
-                * 0
+                * *(ArrayElement: 0)*
               * ConnMapOrient
               * ConfigStatus
               * ConnMap
-                * 0
+                * *(ArrayElement: 0)*
                   * InUse
                   * VPID
                   * CardType
@@ -11791,7 +11791,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 1
+                * *(ArrayElement: 1)*
                   * InUse
                   * VPID
                   * CardType
@@ -11800,7 +11800,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 2
+                * *(ArrayElement: 2)*
                   * InUse
                   * VPID
                   * CardType
@@ -11809,7 +11809,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 3
+                * *(ArrayElement: 3)*
                   * InUse
                   * VPID
                   * CardType
@@ -11818,7 +11818,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 4
+                * *(ArrayElement: 4)*
                   * InUse
                   * VPID
                   * CardType
@@ -11827,7 +11827,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 5
+                * *(ArrayElement: 5)*
                   * InUse
                   * VPID
                   * CardType
@@ -11836,7 +11836,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 6
+                * *(ArrayElement: 6)*
                   * InUse
                   * VPID
                   * CardType
@@ -11845,7 +11845,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 7
+                * *(ArrayElement: 7)*
                   * InUse
                   * VPID
                   * CardType
@@ -11854,7 +11854,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 8
+                * *(ArrayElement: 8)*
                   * InUse
                   * VPID
                   * CardType
@@ -11863,7 +11863,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 9
+                * *(ArrayElement: 9)*
                   * InUse
                   * VPID
                   * CardType
@@ -11872,7 +11872,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 10
+                * *(ArrayElement: 10)*
                   * InUse
                   * VPID
                   * CardType
@@ -11881,7 +11881,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 11
+                * *(ArrayElement: 11)*
                   * InUse
                   * VPID
                   * CardType
@@ -11890,7 +11890,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 12
+                * *(ArrayElement: 12)*
                   * InUse
                   * VPID
                   * CardType
@@ -11899,7 +11899,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 13
+                * *(ArrayElement: 13)*
                   * InUse
                   * VPID
                   * CardType
@@ -11908,7 +11908,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 14
+                * *(ArrayElement: 14)*
                   * InUse
                   * VPID
                   * CardType
@@ -11917,7 +11917,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 15
+                * *(ArrayElement: 15)*
                   * InUse
                   * VPID
                   * CardType
@@ -11927,11 +11927,11 @@
                   * SlotIndex
                   * Error
               * VideoFormat
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HFreq
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSync
                   * HActive
                   * HFP
@@ -11942,60 +11942,60 @@
                   * VFP
                   * VTotal
                   * PixelClk
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSP
                   * VSP
                   * AR
                   * Interlaced
-                    * 0
+                    * *(ArrayElement: 0)*
                   * VFType
                   * VFEnum
                   * VFStdFrom
                   * VFStdNum
-                    * 0
+                    * *(ArrayElement: 0)*
           * OutputAOI
-            * 0
+            * *(ArrayElement: 0)*
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * RasterBox
-                * 0
+                * *(ArrayElement: 0)*
                   * Mode
               * TestPattern
-                * 0
+                * *(ArrayElement: 0)*
                   * TestPatternMode
                   * DiagMotion
                   * Color
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
           * RasterBox
-            * 0
+            * *(ArrayElement: 0)*
               * Mode
           * Feathering
-            * 0
+            * *(ArrayElement: 0)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 1
+            * *(ArrayElement: 1)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 2
+            * *(ArrayElement: 2)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 3
+            * *(ArrayElement: 3)*
               * Mode
               * Gamma
               * EdgeWidth
           * VideoColor
-            * 0
+            * *(ArrayElement: 0)*
               * Hue
               * Sat
               * Bright
@@ -12012,35 +12012,35 @@
               * ColorRange
               * Mono
           * TestPattern
-            * 0
+            * *(ArrayElement: 0)*
               * TestPatternMode
               * DiagMotion
               * Color
-                * 0
+                * *(ArrayElement: 0)*
                   * Red
                   * Green
                   * Blue
-        * 2
+        * *(ArrayElement: 2)*
           * Name
-            * 0
+            * *(ArrayElement: 0)*
           * AutoConfigStatus
           * Conn
-            * 0
+            * *(ArrayElement: 0)*
               * SyncPol
               * BitDepth
               * SampleMode
           * Config
-            * 0
+            * *(ArrayElement: 0)*
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * Owner
-                * 0
+                * *(ArrayElement: 0)*
               * Contact
-                * 0
+                * *(ArrayElement: 0)*
               * ConnMapOrient
               * ConfigStatus
               * ConnMap
-                * 0
+                * *(ArrayElement: 0)*
                   * InUse
                   * VPID
                   * CardType
@@ -12049,7 +12049,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 1
+                * *(ArrayElement: 1)*
                   * InUse
                   * VPID
                   * CardType
@@ -12058,7 +12058,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 2
+                * *(ArrayElement: 2)*
                   * InUse
                   * VPID
                   * CardType
@@ -12067,7 +12067,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 3
+                * *(ArrayElement: 3)*
                   * InUse
                   * VPID
                   * CardType
@@ -12076,7 +12076,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 4
+                * *(ArrayElement: 4)*
                   * InUse
                   * VPID
                   * CardType
@@ -12085,7 +12085,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 5
+                * *(ArrayElement: 5)*
                   * InUse
                   * VPID
                   * CardType
@@ -12094,7 +12094,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 6
+                * *(ArrayElement: 6)*
                   * InUse
                   * VPID
                   * CardType
@@ -12103,7 +12103,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 7
+                * *(ArrayElement: 7)*
                   * InUse
                   * VPID
                   * CardType
@@ -12112,7 +12112,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 8
+                * *(ArrayElement: 8)*
                   * InUse
                   * VPID
                   * CardType
@@ -12121,7 +12121,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 9
+                * *(ArrayElement: 9)*
                   * InUse
                   * VPID
                   * CardType
@@ -12130,7 +12130,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 10
+                * *(ArrayElement: 10)*
                   * InUse
                   * VPID
                   * CardType
@@ -12139,7 +12139,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 11
+                * *(ArrayElement: 11)*
                   * InUse
                   * VPID
                   * CardType
@@ -12148,7 +12148,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 12
+                * *(ArrayElement: 12)*
                   * InUse
                   * VPID
                   * CardType
@@ -12157,7 +12157,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 13
+                * *(ArrayElement: 13)*
                   * InUse
                   * VPID
                   * CardType
@@ -12166,7 +12166,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 14
+                * *(ArrayElement: 14)*
                   * InUse
                   * VPID
                   * CardType
@@ -12175,7 +12175,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 15
+                * *(ArrayElement: 15)*
                   * InUse
                   * VPID
                   * CardType
@@ -12185,11 +12185,11 @@
                   * SlotIndex
                   * Error
               * VideoFormat
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HFreq
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSync
                   * HActive
                   * HFP
@@ -12200,60 +12200,60 @@
                   * VFP
                   * VTotal
                   * PixelClk
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSP
                   * VSP
                   * AR
                   * Interlaced
-                    * 0
+                    * *(ArrayElement: 0)*
                   * VFType
                   * VFEnum
                   * VFStdFrom
                   * VFStdNum
-                    * 0
+                    * *(ArrayElement: 0)*
           * OutputAOI
-            * 0
+            * *(ArrayElement: 0)*
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * RasterBox
-                * 0
+                * *(ArrayElement: 0)*
                   * Mode
               * TestPattern
-                * 0
+                * *(ArrayElement: 0)*
                   * TestPatternMode
                   * DiagMotion
                   * Color
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
           * RasterBox
-            * 0
+            * *(ArrayElement: 0)*
               * Mode
           * Feathering
-            * 0
+            * *(ArrayElement: 0)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 1
+            * *(ArrayElement: 1)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 2
+            * *(ArrayElement: 2)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 3
+            * *(ArrayElement: 3)*
               * Mode
               * Gamma
               * EdgeWidth
           * VideoColor
-            * 0
+            * *(ArrayElement: 0)*
               * Hue
               * Sat
               * Bright
@@ -12270,35 +12270,35 @@
               * ColorRange
               * Mono
           * TestPattern
-            * 0
+            * *(ArrayElement: 0)*
               * TestPatternMode
               * DiagMotion
               * Color
-                * 0
+                * *(ArrayElement: 0)*
                   * Red
                   * Green
                   * Blue
-        * 3
+        * *(ArrayElement: 3)*
           * Name
-            * 0
+            * *(ArrayElement: 0)*
           * AutoConfigStatus
           * Conn
-            * 0
+            * *(ArrayElement: 0)*
               * SyncPol
               * BitDepth
               * SampleMode
           * Config
-            * 0
+            * *(ArrayElement: 0)*
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * Owner
-                * 0
+                * *(ArrayElement: 0)*
               * Contact
-                * 0
+                * *(ArrayElement: 0)*
               * ConnMapOrient
               * ConfigStatus
               * ConnMap
-                * 0
+                * *(ArrayElement: 0)*
                   * InUse
                   * VPID
                   * CardType
@@ -12307,7 +12307,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 1
+                * *(ArrayElement: 1)*
                   * InUse
                   * VPID
                   * CardType
@@ -12316,7 +12316,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 2
+                * *(ArrayElement: 2)*
                   * InUse
                   * VPID
                   * CardType
@@ -12325,7 +12325,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 3
+                * *(ArrayElement: 3)*
                   * InUse
                   * VPID
                   * CardType
@@ -12334,7 +12334,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 4
+                * *(ArrayElement: 4)*
                   * InUse
                   * VPID
                   * CardType
@@ -12343,7 +12343,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 5
+                * *(ArrayElement: 5)*
                   * InUse
                   * VPID
                   * CardType
@@ -12352,7 +12352,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 6
+                * *(ArrayElement: 6)*
                   * InUse
                   * VPID
                   * CardType
@@ -12361,7 +12361,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 7
+                * *(ArrayElement: 7)*
                   * InUse
                   * VPID
                   * CardType
@@ -12370,7 +12370,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 8
+                * *(ArrayElement: 8)*
                   * InUse
                   * VPID
                   * CardType
@@ -12379,7 +12379,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 9
+                * *(ArrayElement: 9)*
                   * InUse
                   * VPID
                   * CardType
@@ -12388,7 +12388,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 10
+                * *(ArrayElement: 10)*
                   * InUse
                   * VPID
                   * CardType
@@ -12397,7 +12397,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 11
+                * *(ArrayElement: 11)*
                   * InUse
                   * VPID
                   * CardType
@@ -12406,7 +12406,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 12
+                * *(ArrayElement: 12)*
                   * InUse
                   * VPID
                   * CardType
@@ -12415,7 +12415,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 13
+                * *(ArrayElement: 13)*
                   * InUse
                   * VPID
                   * CardType
@@ -12424,7 +12424,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 14
+                * *(ArrayElement: 14)*
                   * InUse
                   * VPID
                   * CardType
@@ -12433,7 +12433,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 15
+                * *(ArrayElement: 15)*
                   * InUse
                   * VPID
                   * CardType
@@ -12443,11 +12443,11 @@
                   * SlotIndex
                   * Error
               * VideoFormat
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HFreq
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSync
                   * HActive
                   * HFP
@@ -12458,60 +12458,60 @@
                   * VFP
                   * VTotal
                   * PixelClk
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSP
                   * VSP
                   * AR
                   * Interlaced
-                    * 0
+                    * *(ArrayElement: 0)*
                   * VFType
                   * VFEnum
                   * VFStdFrom
                   * VFStdNum
-                    * 0
+                    * *(ArrayElement: 0)*
           * OutputAOI
-            * 0
+            * *(ArrayElement: 0)*
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * RasterBox
-                * 0
+                * *(ArrayElement: 0)*
                   * Mode
               * TestPattern
-                * 0
+                * *(ArrayElement: 0)*
                   * TestPatternMode
                   * DiagMotion
                   * Color
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
           * RasterBox
-            * 0
+            * *(ArrayElement: 0)*
               * Mode
           * Feathering
-            * 0
+            * *(ArrayElement: 0)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 1
+            * *(ArrayElement: 1)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 2
+            * *(ArrayElement: 2)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 3
+            * *(ArrayElement: 3)*
               * Mode
               * Gamma
               * EdgeWidth
           * VideoColor
-            * 0
+            * *(ArrayElement: 0)*
               * Hue
               * Sat
               * Bright
@@ -12528,35 +12528,35 @@
               * ColorRange
               * Mono
           * TestPattern
-            * 0
+            * *(ArrayElement: 0)*
               * TestPatternMode
               * DiagMotion
               * Color
-                * 0
+                * *(ArrayElement: 0)*
                   * Red
                   * Green
                   * Blue
-        * 4
+        * *(ArrayElement: 4)*
           * Name
-            * 0
+            * *(ArrayElement: 0)*
           * AutoConfigStatus
           * Conn
-            * 0
+            * *(ArrayElement: 0)*
               * SyncPol
               * BitDepth
               * SampleMode
           * Config
-            * 0
+            * *(ArrayElement: 0)*
               * Name
-                * 0
+                * *(ArrayElement: 0)*
               * Owner
-                * 0
+                * *(ArrayElement: 0)*
               * Contact
-                * 0
+                * *(ArrayElement: 0)*
               * ConnMapOrient
               * ConfigStatus
               * ConnMap
-                * 0
+                * *(ArrayElement: 0)*
                   * InUse
                   * VPID
                   * CardType
@@ -12565,7 +12565,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 1
+                * *(ArrayElement: 1)*
                   * InUse
                   * VPID
                   * CardType
@@ -12574,7 +12574,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 2
+                * *(ArrayElement: 2)*
                   * InUse
                   * VPID
                   * CardType
@@ -12583,7 +12583,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 3
+                * *(ArrayElement: 3)*
                   * InUse
                   * VPID
                   * CardType
@@ -12592,7 +12592,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 4
+                * *(ArrayElement: 4)*
                   * InUse
                   * VPID
                   * CardType
@@ -12601,7 +12601,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 5
+                * *(ArrayElement: 5)*
                   * InUse
                   * VPID
                   * CardType
@@ -12610,7 +12610,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 6
+                * *(ArrayElement: 6)*
                   * InUse
                   * VPID
                   * CardType
@@ -12619,7 +12619,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 7
+                * *(ArrayElement: 7)*
                   * InUse
                   * VPID
                   * CardType
@@ -12628,7 +12628,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 8
+                * *(ArrayElement: 8)*
                   * InUse
                   * VPID
                   * CardType
@@ -12637,7 +12637,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 9
+                * *(ArrayElement: 9)*
                   * InUse
                   * VPID
                   * CardType
@@ -12646,7 +12646,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 10
+                * *(ArrayElement: 10)*
                   * InUse
                   * VPID
                   * CardType
@@ -12655,7 +12655,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 11
+                * *(ArrayElement: 11)*
                   * InUse
                   * VPID
                   * CardType
@@ -12664,7 +12664,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 12
+                * *(ArrayElement: 12)*
                   * InUse
                   * VPID
                   * CardType
@@ -12673,7 +12673,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 13
+                * *(ArrayElement: 13)*
                   * InUse
                   * VPID
                   * CardType
@@ -12682,7 +12682,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 14
+                * *(ArrayElement: 14)*
                   * InUse
                   * VPID
                   * CardType
@@ -12691,7 +12691,7 @@
                   * ConnectorIndex
                   * SlotIndex
                   * Error
-                * 15
+                * *(ArrayElement: 15)*
                   * InUse
                   * VPID
                   * CardType
@@ -12701,11 +12701,11 @@
                   * SlotIndex
                   * Error
               * VideoFormat
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HFreq
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSync
                   * HActive
                   * HFP
@@ -12716,60 +12716,60 @@
                   * VFP
                   * VTotal
                   * PixelClk
-                    * 0
+                    * *(ArrayElement: 0)*
                   * HSP
                   * VSP
                   * AR
                   * Interlaced
-                    * 0
+                    * *(ArrayElement: 0)*
                   * VFType
                   * VFEnum
                   * VFStdFrom
                   * VFStdNum
-                    * 0
+                    * *(ArrayElement: 0)*
           * OutputAOI
-            * 0
+            * *(ArrayElement: 0)*
               * AOIRect
-                * 0
+                * *(ArrayElement: 0)*
                   * HPos
                   * VPos
                   * HSize
                   * VSize
                   * AR
               * RasterBox
-                * 0
+                * *(ArrayElement: 0)*
                   * Mode
               * TestPattern
-                * 0
+                * *(ArrayElement: 0)*
                   * TestPatternMode
                   * DiagMotion
                   * Color
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
           * RasterBox
-            * 0
+            * *(ArrayElement: 0)*
               * Mode
           * Feathering
-            * 0
+            * *(ArrayElement: 0)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 1
+            * *(ArrayElement: 1)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 2
+            * *(ArrayElement: 2)*
               * Mode
               * Gamma
               * EdgeWidth
-            * 3
+            * *(ArrayElement: 3)*
               * Mode
               * Gamma
               * EdgeWidth
           * VideoColor
-            * 0
+            * *(ArrayElement: 0)*
               * Hue
               * Sat
               * Bright
@@ -12786,209 +12786,209 @@
               * ColorRange
               * Mono
           * TestPattern
-            * 0
+            * *(ArrayElement: 0)*
               * TestPatternMode
               * DiagMotion
               * Color
-                * 0
+                * *(ArrayElement: 0)*
                   * Red
                   * Green
                   * Blue
   * PresetMgr
-    * 0
+    * *(ArrayElement: 0)*
       * LastRecall
-        * 0
+        * *(ArrayElement: 0)*
       * Preset
-        * 0
+        * *(ArrayElement: 0)*
           * Name
-            * 0
+            * *(ArrayElement: 0)*
           * LockMode
-            * 0
+            * *(ArrayElement: 0)*
           * presetSno
-            * 0
-        * 1
+            * *(ArrayElement: 0)*
+        * *(ArrayElement: 1)*
           * Name
-            * 0
+            * *(ArrayElement: 0)*
           * LockMode
-            * 0
+            * *(ArrayElement: 0)*
           * presetSno
-            * 0
-        * 2
+            * *(ArrayElement: 0)*
+        * *(ArrayElement: 2)*
           * Name
-            * 0
+            * *(ArrayElement: 0)*
           * LockMode
-            * 0
+            * *(ArrayElement: 0)*
           * presetSno
-            * 0
-        * 3
+            * *(ArrayElement: 0)*
+        * *(ArrayElement: 3)*
           * Name
-            * 0
+            * *(ArrayElement: 0)*
           * LockMode
-            * 0
+            * *(ArrayElement: 0)*
           * presetSno
-            * 0
+            * *(ArrayElement: 0)*
   * SystemTime
-    * 0
+    * *(ArrayElement: 0)*
       * Hours
       * Minutes
       * Seconds
   * ColorBuckets
-    * 0
+    * *(ArrayElement: 0)*
       * Color
-        * 0
+        * *(ArrayElement: 0)*
           * Red
           * Green
           * Blue
-        * 1
+        * *(ArrayElement: 1)*
           * Red
           * Green
           * Blue
-        * 2
+        * *(ArrayElement: 2)*
           * Red
           * Green
           * Blue
-        * 3
+        * *(ArrayElement: 3)*
           * Red
           * Green
           * Blue
-        * 4
+        * *(ArrayElement: 4)*
           * Red
           * Green
           * Blue
   * FrameCollection
-    * 0
+    * *(ArrayElement: 0)*
       * Frame
-        * 0
+        * *(ArrayElement: 0)*
           * FrameType
           * OpMode
           * VPID
           * BlackOnInvalid
           * DispBright
           * Name
-            * 0
+            * *(ArrayElement: 0)*
           * Contact
-            * 0
+            * *(ArrayElement: 0)*
           * LockFrontPanel
-            * 0
+            * *(ArrayElement: 0)*
           * OSVersion
-            * 0
+            * *(ArrayElement: 0)*
           * Version
-            * 0
+            * *(ArrayElement: 0)*
           * IsConnected
           * Enet
-            * 0
+            * *(ArrayElement: 0)*
               * StaticIP
-                * 0
+                * *(ArrayElement: 0)*
               * StaticMask
-                * 0
+                * *(ArrayElement: 0)*
               * StaticGateway
-                * 0
+                * *(ArrayElement: 0)*
               * IP
-                * 0
+                * *(ArrayElement: 0)*
               * DhcpMode
               * Mask
-                * 0
+                * *(ArrayElement: 0)*
               * Gateway
-                * 0
+                * *(ArrayElement: 0)*
               * MacAddress
-                * 0
+                * *(ArrayElement: 0)*
           * Slot
-            * 0
+            * *(ArrayElement: 0)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardExp
-                    * 0
+                    * *(ArrayElement: 0)*
                       * LinkConnector
-                        * 0
+                        * *(ArrayElement: 0)*
                           * Mode
                           * IP
-                            * 0
+                            * *(ArrayElement: 0)*
                           * MacAddress
-                            * 0
+                            * *(ArrayElement: 0)*
                           * Connected
                           * ConnectorIndex
                           * SlotIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * Mode
                           * IP
-                            * 0
+                            * *(ArrayElement: 0)*
                           * MacAddress
-                            * 0
+                            * *(ArrayElement: 0)*
                           * Connected
                           * ConnectorIndex
                           * SlotIndex
-            * 1
+            * *(ArrayElement: 1)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardExp
-                    * 0
+                    * *(ArrayElement: 0)*
                       * LinkConnector
-                        * 0
+                        * *(ArrayElement: 0)*
                           * Mode
                           * IP
-                            * 0
+                            * *(ArrayElement: 0)*
                           * MacAddress
-                            * 0
+                            * *(ArrayElement: 0)*
                           * Connected
                           * ConnectorIndex
                           * SlotIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * Mode
                           * IP
-                            * 0
+                            * *(ArrayElement: 0)*
                           * MacAddress
-                            * 0
+                            * *(ArrayElement: 0)*
                           * Connected
                           * ConnectorIndex
                           * SlotIndex
-            * 2
+            * *(ArrayElement: 2)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardIn
-                    * 0
+                    * *(ArrayElement: 0)*
                       * NumOfChan
                       * CapacityStatus
                       * In
-                        * 0
+                        * *(ArrayElement: 0)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -12999,33 +12999,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13036,36 +13036,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13076,23 +13076,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -13103,39 +13103,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 1
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 1)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13146,33 +13146,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13183,36 +13183,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13223,23 +13223,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -13250,39 +13250,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 2
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 2)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13293,33 +13293,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13330,36 +13330,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13370,23 +13370,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -13397,39 +13397,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 3
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 3)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13440,33 +13440,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13477,36 +13477,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13517,23 +13517,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -13544,53 +13544,53 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-            * 3
+                                * *(ArrayElement: 0)*
+            * *(ArrayElement: 3)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardIn
-                    * 0
+                    * *(ArrayElement: 0)*
                       * NumOfChan
                       * CapacityStatus
                       * In
-                        * 0
+                        * *(ArrayElement: 0)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13601,33 +13601,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13638,36 +13638,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13678,23 +13678,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -13705,39 +13705,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 1
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 1)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13748,33 +13748,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13785,36 +13785,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13825,23 +13825,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -13852,39 +13852,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 2
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 2)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13895,33 +13895,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13932,36 +13932,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -13972,23 +13972,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -13999,39 +13999,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 3
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 3)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14042,33 +14042,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14079,36 +14079,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14119,23 +14119,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -14146,53 +14146,53 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-            * 4
+                                * *(ArrayElement: 0)*
+            * *(ArrayElement: 4)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardIn
-                    * 0
+                    * *(ArrayElement: 0)*
                       * NumOfChan
                       * CapacityStatus
                       * In
-                        * 0
+                        * *(ArrayElement: 0)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14203,33 +14203,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14240,36 +14240,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14280,23 +14280,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -14307,39 +14307,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 1
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 1)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14350,33 +14350,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14387,36 +14387,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14427,23 +14427,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -14454,39 +14454,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 2
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 2)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14497,33 +14497,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14534,36 +14534,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14574,23 +14574,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -14601,39 +14601,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 3
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 3)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14644,33 +14644,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14681,36 +14681,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14721,23 +14721,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -14748,53 +14748,53 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-            * 5
+                                * *(ArrayElement: 0)*
+            * *(ArrayElement: 5)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardIn
-                    * 0
+                    * *(ArrayElement: 0)*
                       * NumOfChan
                       * CapacityStatus
                       * In
-                        * 0
+                        * *(ArrayElement: 0)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14805,33 +14805,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14842,36 +14842,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14882,23 +14882,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -14909,39 +14909,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 1
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 1)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14952,33 +14952,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -14989,36 +14989,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15029,23 +15029,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -15056,39 +15056,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 2
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 2)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15099,33 +15099,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15136,36 +15136,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15176,23 +15176,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -15203,39 +15203,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 3
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 3)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15246,33 +15246,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15283,36 +15283,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15323,23 +15323,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -15350,53 +15350,53 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-            * 6
+                                * *(ArrayElement: 0)*
+            * *(ArrayElement: 6)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardIn
-                    * 0
+                    * *(ArrayElement: 0)*
                       * NumOfChan
                       * CapacityStatus
                       * In
-                        * 0
+                        * *(ArrayElement: 0)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15407,33 +15407,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15444,36 +15444,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15484,23 +15484,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -15511,39 +15511,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 1
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 1)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15554,33 +15554,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15591,36 +15591,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15631,23 +15631,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -15658,39 +15658,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 2
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 2)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15701,33 +15701,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15738,36 +15738,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15778,23 +15778,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -15805,39 +15805,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 3
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 3)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15848,33 +15848,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15885,36 +15885,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -15925,23 +15925,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -15952,53 +15952,53 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-            * 7
+                                * *(ArrayElement: 0)*
+            * *(ArrayElement: 7)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardIn
-                    * 0
+                    * *(ArrayElement: 0)*
                       * NumOfChan
                       * CapacityStatus
                       * In
-                        * 0
+                        * *(ArrayElement: 0)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16009,33 +16009,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16046,36 +16046,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16086,23 +16086,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -16113,39 +16113,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 1
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 1)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16156,33 +16156,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16193,36 +16193,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16233,23 +16233,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -16260,39 +16260,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 2
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 2)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16303,33 +16303,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16340,36 +16340,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16380,23 +16380,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -16407,39 +16407,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 3
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 3)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16450,33 +16450,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16487,36 +16487,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16527,23 +16527,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -16554,53 +16554,53 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-            * 8
+                                * *(ArrayElement: 0)*
+            * *(ArrayElement: 8)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardIn
-                    * 0
+                    * *(ArrayElement: 0)*
                       * NumOfChan
                       * CapacityStatus
                       * In
-                        * 0
+                        * *(ArrayElement: 0)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16611,33 +16611,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16648,36 +16648,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16688,23 +16688,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -16715,39 +16715,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 1
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 1)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16758,33 +16758,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16795,36 +16795,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16835,23 +16835,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -16862,39 +16862,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 2
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 2)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16905,33 +16905,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16942,36 +16942,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -16982,23 +16982,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -17009,39 +17009,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 3
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 3)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17052,33 +17052,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17089,36 +17089,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17129,23 +17129,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -17156,53 +17156,53 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-            * 9
+                                * *(ArrayElement: 0)*
+            * *(ArrayElement: 9)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardIn
-                    * 0
+                    * *(ArrayElement: 0)*
                       * NumOfChan
                       * CapacityStatus
                       * In
-                        * 0
+                        * *(ArrayElement: 0)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17213,33 +17213,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17250,36 +17250,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17290,23 +17290,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -17317,39 +17317,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 1
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 1)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17360,33 +17360,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17397,36 +17397,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17437,23 +17437,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -17464,39 +17464,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 2
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 2)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17507,33 +17507,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17544,36 +17544,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17584,23 +17584,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -17611,39 +17611,39 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-                        * 3
+                                * *(ArrayElement: 0)*
+                        * *(ArrayElement: 3)*
                           * AutoAcqMode
                           * Capacity
                           * ColorSpace
                           * ColorRange
                           * Sync
                           * DPIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17654,33 +17654,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17691,36 +17691,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIIn
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDIn
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EdidStatus
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17731,23 +17731,23 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -17758,49 +17758,49 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
-            * 10
+                                * *(ArrayElement: 0)*
+            * *(ArrayElement: 10)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardOut
-                    * 0
+                    * *(ArrayElement: 0)*
                       * NumOfChan
                       * CapacityStatus
                       * Out
-                        * 0
+                        * *(ArrayElement: 0)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17811,33 +17811,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17848,36 +17848,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17888,35 +17888,35 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-                        * 1
+                                        * *(ArrayElement: 0)*
+                        * *(ArrayElement: 1)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17927,33 +17927,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -17964,36 +17964,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18004,35 +18004,35 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-                        * 2
+                                        * *(ArrayElement: 0)*
+                        * *(ArrayElement: 2)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18043,33 +18043,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18080,36 +18080,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18120,35 +18120,35 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-                        * 3
+                                        * *(ArrayElement: 0)*
+                        * *(ArrayElement: 3)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18159,33 +18159,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18196,36 +18196,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18236,49 +18236,49 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-            * 11
+                                        * *(ArrayElement: 0)*
+            * *(ArrayElement: 11)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardOut
-                    * 0
+                    * *(ArrayElement: 0)*
                       * NumOfChan
                       * CapacityStatus
                       * Out
-                        * 0
+                        * *(ArrayElement: 0)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18289,33 +18289,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18326,36 +18326,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18366,35 +18366,35 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-                        * 1
+                                        * *(ArrayElement: 0)*
+                        * *(ArrayElement: 1)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18405,33 +18405,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18442,36 +18442,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18482,35 +18482,35 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-                        * 2
+                                        * *(ArrayElement: 0)*
+                        * *(ArrayElement: 2)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18521,33 +18521,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18558,36 +18558,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18598,35 +18598,35 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-                        * 3
+                                        * *(ArrayElement: 0)*
+                        * *(ArrayElement: 3)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18637,33 +18637,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18674,36 +18674,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18714,49 +18714,49 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-            * 12
+                                        * *(ArrayElement: 0)*
+            * *(ArrayElement: 12)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardOut
-                    * 0
+                    * *(ArrayElement: 0)*
                       * NumOfChan
                       * CapacityStatus
                       * Out
-                        * 0
+                        * *(ArrayElement: 0)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18767,33 +18767,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18804,36 +18804,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18844,35 +18844,35 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-                        * 1
+                                        * *(ArrayElement: 0)*
+                        * *(ArrayElement: 1)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18883,33 +18883,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18920,36 +18920,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18960,35 +18960,35 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-                        * 2
+                                        * *(ArrayElement: 0)*
+                        * *(ArrayElement: 2)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -18999,33 +18999,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19036,36 +19036,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19076,35 +19076,35 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-                        * 3
+                                        * *(ArrayElement: 0)*
+                        * *(ArrayElement: 3)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19115,33 +19115,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19152,36 +19152,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19192,49 +19192,49 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-            * 13
+                                        * *(ArrayElement: 0)*
+            * *(ArrayElement: 13)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardOut
-                    * 0
+                    * *(ArrayElement: 0)*
                       * NumOfChan
                       * CapacityStatus
                       * Out
-                        * 0
+                        * *(ArrayElement: 0)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19245,33 +19245,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19282,36 +19282,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19322,35 +19322,35 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-                        * 1
+                                        * *(ArrayElement: 0)*
+                        * *(ArrayElement: 1)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19361,33 +19361,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19398,36 +19398,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19438,35 +19438,35 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-                        * 2
+                                        * *(ArrayElement: 0)*
+                        * *(ArrayElement: 2)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19477,33 +19477,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19514,36 +19514,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19554,35 +19554,35 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-                        * 3
+                                        * *(ArrayElement: 0)*
+                        * *(ArrayElement: 3)*
                           * Capacity
                           * DPOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19593,33 +19593,33 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * DVIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19630,36 +19630,36 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
+                                        * *(ArrayElement: 0)*
                           * SDIOut
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Type3G
                           * HDMIOutput
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Hdcp
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Mode
                                   * HdcpAuth
                                   * HdcpProt
                               * EDIDOut
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * EDIDValid
                                   * VideoFormat
-                                    * 0
+                                    * *(ArrayElement: 0)*
                                       * Name
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HFreq
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSync
                                       * HActive
                                       * HFP
@@ -19670,755 +19670,755 @@
                                       * VFP
                                       * VTotal
                                       * PixelClk
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * HSP
                                       * VSP
                                       * AR
                                       * Interlaced
-                                        * 0
+                                        * *(ArrayElement: 0)*
                                       * VFType
                                       * VFEnum
                                       * VFStdFrom
                                       * VFStdNum
-                                        * 0
-            * 14
+                                        * *(ArrayElement: 0)*
+            * *(ArrayElement: 14)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardLayer
-                    * 0
+                    * *(ArrayElement: 0)*
                       * BankIndex
                       * VpuIndex
                       * LinkAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
                       * ScalerAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-            * 15
+            * *(ArrayElement: 15)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardLayer
-                    * 0
+                    * *(ArrayElement: 0)*
                       * BankIndex
                       * VpuIndex
                       * LinkAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
                       * ScalerAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-            * 16
+            * *(ArrayElement: 16)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardLayer
-                    * 0
+                    * *(ArrayElement: 0)*
                       * BankIndex
                       * VpuIndex
                       * LinkAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
                       * ScalerAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-            * 17
+            * *(ArrayElement: 17)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardLayer
-                    * 0
+                    * *(ArrayElement: 0)*
                       * BankIndex
                       * VpuIndex
                       * LinkAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
                       * ScalerAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-            * 18
+            * *(ArrayElement: 18)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
-            * 19
+            * *(ArrayElement: 19)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardLayer
-                    * 0
+                    * *(ArrayElement: 0)*
                       * BankIndex
                       * VpuIndex
                       * LinkAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
                       * ScalerAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-            * 20
+            * *(ArrayElement: 20)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardLayer
-                    * 0
+                    * *(ArrayElement: 0)*
                       * BankIndex
                       * VpuIndex
                       * LinkAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
                       * ScalerAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-            * 21
+            * *(ArrayElement: 21)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardLayer
-                    * 0
+                    * *(ArrayElement: 0)*
                       * BankIndex
                       * VpuIndex
                       * LinkAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
                       * ScalerAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-            * 22
+            * *(ArrayElement: 22)*
               * Card
-                * 0
+                * *(ArrayElement: 0)*
                   * CardStatus
                   * CardType
                   * CardID
-                    * 0
+                    * *(ArrayElement: 0)*
                   * CardSim
                   * SlotIndex
                   * CardLayer
-                    * 0
+                    * *(ArrayElement: 0)*
                       * BankIndex
                       * VpuIndex
                       * LinkAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * XPos
                           * YPos
                           * ZPos
                           * DestIndex
                       * ScalerAssign
-                        * 0
+                        * *(ArrayElement: 0)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 1
+                        * *(ArrayElement: 1)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 2
+                        * *(ArrayElement: 2)*
                           * YPos
                           * LayerIndex
                           * DestIndex
-                        * 3
+                        * *(ArrayElement: 3)*
                           * YPos
                           * LayerIndex
                           * DestIndex
           * Genlock
-            * 0
+            * *(ArrayElement: 0)*
               * LockSrc
               * Locked
           * SysCard
-            * 0
+            * *(ArrayElement: 0)*
               * CardStatus
           * MultiViewer
-            * 0
+            * *(ArrayElement: 0)*
               * CardStatus
               * LayoutSelect
               * MVClock
-                * 0
+                * *(ArrayElement: 0)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ClockFormat
                   * ClockType
                   * CountRunning
-                    * 0
+                    * *(ArrayElement: 0)*
                   * BGColor
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
                   * UpStopTime
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Hours
                       * Minutes
                       * Seconds
                   * DownStartTime
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Hours
                       * Minutes
                       * Seconds
                   * ClockOffsetTime
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Hours
                       * Minutes
                       * Seconds
-                * 1
+                * *(ArrayElement: 1)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ClockFormat
                   * ClockType
                   * CountRunning
-                    * 0
+                    * *(ArrayElement: 0)*
                   * BGColor
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
                   * UpStopTime
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Hours
                       * Minutes
                       * Seconds
                   * DownStartTime
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Hours
                       * Minutes
                       * Seconds
                   * ClockOffsetTime
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Hours
                       * Minutes
                       * Seconds
-                * 2
+                * *(ArrayElement: 2)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ClockFormat
                   * ClockType
                   * CountRunning
-                    * 0
+                    * *(ArrayElement: 0)*
                   * BGColor
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
                   * UpStopTime
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Hours
                       * Minutes
                       * Seconds
                   * DownStartTime
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Hours
                       * Minutes
                       * Seconds
                   * ClockOffsetTime
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Hours
                       * Minutes
                       * Seconds
-                * 3
+                * *(ArrayElement: 3)*
                   * Name
-                    * 0
+                    * *(ArrayElement: 0)*
                   * ClockFormat
                   * ClockType
                   * CountRunning
-                    * 0
+                    * *(ArrayElement: 0)*
                   * BGColor
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Red
                       * Green
                       * Blue
                   * UpStopTime
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Hours
                       * Minutes
                       * Seconds
                   * DownStartTime
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Hours
                       * Minutes
                       * Seconds
                   * ClockOffsetTime
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Hours
                       * Minutes
                       * Seconds
               * MVLayout
-                * 0
+                * *(ArrayElement: 0)*
                   * MVDestCollection
-                    * 0
+                    * *(ArrayElement: 0)*
                       * MVDest
-                        * 0
+                        * *(ArrayElement: 0)*
                           * OutCfgIndex
                           * Name
-                            * 0
+                            * *(ArrayElement: 0)*
                           * SourcePvwWinIndex
                           * BGColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * UMDColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * BorderColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
-                        * 1
+                        * *(ArrayElement: 1)*
                           * OutCfgIndex
                           * Name
-                            * 0
+                            * *(ArrayElement: 0)*
                           * SourcePvwWinIndex
                           * BGColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * UMDColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * BorderColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
-                * 1
+                * *(ArrayElement: 1)*
                   * MVDestCollection
-                    * 0
+                    * *(ArrayElement: 0)*
                       * MVDest
-                        * 0
+                        * *(ArrayElement: 0)*
                           * OutCfgIndex
                           * Name
-                            * 0
+                            * *(ArrayElement: 0)*
                           * SourcePvwWinIndex
                           * BGColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * UMDColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * BorderColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
-                        * 1
+                        * *(ArrayElement: 1)*
                           * OutCfgIndex
                           * Name
-                            * 0
+                            * *(ArrayElement: 0)*
                           * SourcePvwWinIndex
                           * BGColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * UMDColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * BorderColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
-                * 2
+                * *(ArrayElement: 2)*
                   * MVDestCollection
-                    * 0
+                    * *(ArrayElement: 0)*
                       * MVDest
-                        * 0
+                        * *(ArrayElement: 0)*
                           * OutCfgIndex
                           * Name
-                            * 0
+                            * *(ArrayElement: 0)*
                           * SourcePvwWinIndex
                           * BGColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * UMDColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * BorderColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
-                        * 1
+                        * *(ArrayElement: 1)*
                           * OutCfgIndex
                           * Name
-                            * 0
+                            * *(ArrayElement: 0)*
                           * SourcePvwWinIndex
                           * BGColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * UMDColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * BorderColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
-                * 3
+                * *(ArrayElement: 3)*
                   * MVDestCollection
-                    * 0
+                    * *(ArrayElement: 0)*
                       * MVDest
-                        * 0
+                        * *(ArrayElement: 0)*
                           * OutCfgIndex
                           * Name
-                            * 0
+                            * *(ArrayElement: 0)*
                           * SourcePvwWinIndex
                           * BGColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * UMDColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * BorderColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
-                        * 1
+                        * *(ArrayElement: 1)*
                           * OutCfgIndex
                           * Name
-                            * 0
+                            * *(ArrayElement: 0)*
                           * SourcePvwWinIndex
                           * BGColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * UMDColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
                           * BorderColor
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
               * MVOutputCfgCollection
-                * 0
+                * *(ArrayElement: 0)*
                   * OutputCfg
-                    * 0
+                    * *(ArrayElement: 0)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * AutoConfigStatus
                       * Conn
-                        * 0
+                        * *(ArrayElement: 0)*
                           * SyncPol
                           * BitDepth
                           * SampleMode
                       * Config
-                        * 0
+                        * *(ArrayElement: 0)*
                           * Name
-                            * 0
+                            * *(ArrayElement: 0)*
                           * Owner
-                            * 0
+                            * *(ArrayElement: 0)*
                           * Contact
-                            * 0
+                            * *(ArrayElement: 0)*
                           * ConnMapOrient
                           * ConfigStatus
                           * ConnMap
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InUse
                               * VPID
                               * CardType
@@ -20427,7 +20427,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 1
+                            * *(ArrayElement: 1)*
                               * InUse
                               * VPID
                               * CardType
@@ -20436,7 +20436,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 2
+                            * *(ArrayElement: 2)*
                               * InUse
                               * VPID
                               * CardType
@@ -20445,7 +20445,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 3
+                            * *(ArrayElement: 3)*
                               * InUse
                               * VPID
                               * CardType
@@ -20454,7 +20454,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 4
+                            * *(ArrayElement: 4)*
                               * InUse
                               * VPID
                               * CardType
@@ -20463,7 +20463,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 5
+                            * *(ArrayElement: 5)*
                               * InUse
                               * VPID
                               * CardType
@@ -20472,7 +20472,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 6
+                            * *(ArrayElement: 6)*
                               * InUse
                               * VPID
                               * CardType
@@ -20481,7 +20481,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 7
+                            * *(ArrayElement: 7)*
                               * InUse
                               * VPID
                               * CardType
@@ -20490,7 +20490,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 8
+                            * *(ArrayElement: 8)*
                               * InUse
                               * VPID
                               * CardType
@@ -20499,7 +20499,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 9
+                            * *(ArrayElement: 9)*
                               * InUse
                               * VPID
                               * CardType
@@ -20508,7 +20508,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 10
+                            * *(ArrayElement: 10)*
                               * InUse
                               * VPID
                               * CardType
@@ -20517,7 +20517,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 11
+                            * *(ArrayElement: 11)*
                               * InUse
                               * VPID
                               * CardType
@@ -20526,7 +20526,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 12
+                            * *(ArrayElement: 12)*
                               * InUse
                               * VPID
                               * CardType
@@ -20535,7 +20535,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 13
+                            * *(ArrayElement: 13)*
                               * InUse
                               * VPID
                               * CardType
@@ -20544,7 +20544,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 14
+                            * *(ArrayElement: 14)*
                               * InUse
                               * VPID
                               * CardType
@@ -20553,7 +20553,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 15
+                            * *(ArrayElement: 15)*
                               * InUse
                               * VPID
                               * CardType
@@ -20563,11 +20563,11 @@
                               * SlotIndex
                               * Error
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -20578,60 +20578,60 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
+                                * *(ArrayElement: 0)*
                       * OutputAOI
-                        * 0
+                        * *(ArrayElement: 0)*
                           * AOIRect
-                            * 0
+                            * *(ArrayElement: 0)*
                               * HPos
                               * VPos
                               * HSize
                               * VSize
                               * AR
                           * RasterBox
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Mode
                           * TestPattern
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TestPatternMode
                               * DiagMotion
                               * Color
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Red
                                   * Green
                                   * Blue
                       * RasterBox
-                        * 0
+                        * *(ArrayElement: 0)*
                           * Mode
                       * Feathering
-                        * 0
+                        * *(ArrayElement: 0)*
                           * Mode
                           * Gamma
                           * EdgeWidth
-                        * 1
+                        * *(ArrayElement: 1)*
                           * Mode
                           * Gamma
                           * EdgeWidth
-                        * 2
+                        * *(ArrayElement: 2)*
                           * Mode
                           * Gamma
                           * EdgeWidth
-                        * 3
+                        * *(ArrayElement: 3)*
                           * Mode
                           * Gamma
                           * EdgeWidth
                       * VideoColor
-                        * 0
+                        * *(ArrayElement: 0)*
                           * Hue
                           * Sat
                           * Bright
@@ -20648,35 +20648,35 @@
                           * ColorRange
                           * Mono
                       * TestPattern
-                        * 0
+                        * *(ArrayElement: 0)*
                           * TestPatternMode
                           * DiagMotion
                           * Color
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
-                    * 1
+                    * *(ArrayElement: 1)*
                       * Name
-                        * 0
+                        * *(ArrayElement: 0)*
                       * AutoConfigStatus
                       * Conn
-                        * 0
+                        * *(ArrayElement: 0)*
                           * SyncPol
                           * BitDepth
                           * SampleMode
                       * Config
-                        * 0
+                        * *(ArrayElement: 0)*
                           * Name
-                            * 0
+                            * *(ArrayElement: 0)*
                           * Owner
-                            * 0
+                            * *(ArrayElement: 0)*
                           * Contact
-                            * 0
+                            * *(ArrayElement: 0)*
                           * ConnMapOrient
                           * ConfigStatus
                           * ConnMap
-                            * 0
+                            * *(ArrayElement: 0)*
                               * InUse
                               * VPID
                               * CardType
@@ -20685,7 +20685,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 1
+                            * *(ArrayElement: 1)*
                               * InUse
                               * VPID
                               * CardType
@@ -20694,7 +20694,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 2
+                            * *(ArrayElement: 2)*
                               * InUse
                               * VPID
                               * CardType
@@ -20703,7 +20703,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 3
+                            * *(ArrayElement: 3)*
                               * InUse
                               * VPID
                               * CardType
@@ -20712,7 +20712,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 4
+                            * *(ArrayElement: 4)*
                               * InUse
                               * VPID
                               * CardType
@@ -20721,7 +20721,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 5
+                            * *(ArrayElement: 5)*
                               * InUse
                               * VPID
                               * CardType
@@ -20730,7 +20730,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 6
+                            * *(ArrayElement: 6)*
                               * InUse
                               * VPID
                               * CardType
@@ -20739,7 +20739,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 7
+                            * *(ArrayElement: 7)*
                               * InUse
                               * VPID
                               * CardType
@@ -20748,7 +20748,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 8
+                            * *(ArrayElement: 8)*
                               * InUse
                               * VPID
                               * CardType
@@ -20757,7 +20757,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 9
+                            * *(ArrayElement: 9)*
                               * InUse
                               * VPID
                               * CardType
@@ -20766,7 +20766,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 10
+                            * *(ArrayElement: 10)*
                               * InUse
                               * VPID
                               * CardType
@@ -20775,7 +20775,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 11
+                            * *(ArrayElement: 11)*
                               * InUse
                               * VPID
                               * CardType
@@ -20784,7 +20784,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 12
+                            * *(ArrayElement: 12)*
                               * InUse
                               * VPID
                               * CardType
@@ -20793,7 +20793,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 13
+                            * *(ArrayElement: 13)*
                               * InUse
                               * VPID
                               * CardType
@@ -20802,7 +20802,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 14
+                            * *(ArrayElement: 14)*
                               * InUse
                               * VPID
                               * CardType
@@ -20811,7 +20811,7 @@
                               * ConnectorIndex
                               * SlotIndex
                               * Error
-                            * 15
+                            * *(ArrayElement: 15)*
                               * InUse
                               * VPID
                               * CardType
@@ -20821,11 +20821,11 @@
                               * SlotIndex
                               * Error
                           * VideoFormat
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Name
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HFreq
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSync
                               * HActive
                               * HFP
@@ -20836,60 +20836,60 @@
                               * VFP
                               * VTotal
                               * PixelClk
-                                * 0
+                                * *(ArrayElement: 0)*
                               * HSP
                               * VSP
                               * AR
                               * Interlaced
-                                * 0
+                                * *(ArrayElement: 0)*
                               * VFType
                               * VFEnum
                               * VFStdFrom
                               * VFStdNum
-                                * 0
+                                * *(ArrayElement: 0)*
                       * OutputAOI
-                        * 0
+                        * *(ArrayElement: 0)*
                           * AOIRect
-                            * 0
+                            * *(ArrayElement: 0)*
                               * HPos
                               * VPos
                               * HSize
                               * VSize
                               * AR
                           * RasterBox
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Mode
                           * TestPattern
-                            * 0
+                            * *(ArrayElement: 0)*
                               * TestPatternMode
                               * DiagMotion
                               * Color
-                                * 0
+                                * *(ArrayElement: 0)*
                                   * Red
                                   * Green
                                   * Blue
                       * RasterBox
-                        * 0
+                        * *(ArrayElement: 0)*
                           * Mode
                       * Feathering
-                        * 0
+                        * *(ArrayElement: 0)*
                           * Mode
                           * Gamma
                           * EdgeWidth
-                        * 1
+                        * *(ArrayElement: 1)*
                           * Mode
                           * Gamma
                           * EdgeWidth
-                        * 2
+                        * *(ArrayElement: 2)*
                           * Mode
                           * Gamma
                           * EdgeWidth
-                        * 3
+                        * *(ArrayElement: 3)*
                           * Mode
                           * Gamma
                           * EdgeWidth
                       * VideoColor
-                        * 0
+                        * *(ArrayElement: 0)*
                           * Hue
                           * Sat
                           * Bright
@@ -20906,15 +20906,15 @@
                           * ColorRange
                           * Mono
                       * TestPattern
-                        * 0
+                        * *(ArrayElement: 0)*
                           * TestPatternMode
                           * DiagMotion
                           * Color
-                            * 0
+                            * *(ArrayElement: 0)*
                               * Red
                               * Green
                               * Blue
   * XMLType
-    * 0
+    * *(ArrayElement: 0)*
   * Resp
-    * 0
+    * *(ArrayElement: 0)*
