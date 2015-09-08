@@ -1,5 +1,6 @@
-var debug		= require("debug")("e2-lib")
-var net			= require('net');
+var debug				= require("debug")("e2-lib")
+var net					= require('net');
+var parseXML		= require('xml2js').parseString;
 
 module.exports = {
 	connect: function(host) {
@@ -18,10 +19,13 @@ function e2(param) {
 
 	this.addr = param.addr ? param.addr : "10.20.30.10";
 	this.port = param.port ? param.port : "9876";
+	this.ready = param.ready != undefined ? param.ready : undefined;// function(){};
 	this.keepaliveInterval = param.keepalive ? param.keepalive : 2000;
 
 	this.client = undefined;
 	this.lastseen = 0;
+	this.gotSyncup = false;
+	this.sync = {};
 	this.keepaliveTimer = undefined;
 	this.client_version = "0.0.0";
 
@@ -30,7 +34,14 @@ function e2(param) {
 // Give ourselves a better life.
 String.prototype.endsWith = function(suffix) { return this.indexOf(suffix, this.length - suffix.length) !== -1; };
 Date.snow = function() { return this.now() / 1000; }
-
+Array.prototype.hack = function() {
+	if (this[0]['_'] != undefined) {
+		return this[0]['_'];
+	}
+	if (this[0] != "undefined") {
+		return this[0];
+	}
+};
 
 // class methods
 e2.prototype.connect = function(param) {
@@ -83,8 +94,8 @@ e2.prototype.keepaliveCheck = function(client) {
 e2.prototype.keepaliveFail = function(client) {
 	debug("keepalive","not responding. disconnecting");
 	client.end();
-	console.log("#### LOST CONNECTION ####");
 
+	console.log("#### LOST CONNECTION ####");
 };
 
 e2.prototype.keepaliveOK = function(client) {
@@ -101,15 +112,42 @@ e2.prototype.keepaliveReset = function(client) {
 	}, this.keepaliveInterval);
 }
 
-e2.prototype.process = function(client,data) {
+e2.prototype.syncUp = function(data) {
+	debug("syncup","Done syncing.",
+		"VPID:",data.VPID.hack(),
+		"NAME:", data.Name.hack(),
+		"RATE:", data.NativeRate.hack(),
+		"MAC:", data.MacAddress.hack()
+	);
 
-	if (data.endsWith("<XMLType>4</XMLType><Resp>0</Resp></System>")) {
+	console.log(
+		data.SystemTime[0].Hours,
+ );
+
+
+	this.sync = data;
+	this.ready();
+};
+
+e2.prototype.process = function(client,data) {
+	var e2 = this;
+	if (data.endsWith('<System id="0" GUID=""><XMLType>4</XMLType><Resp>0</Resp></System>')) {
 		// keepalive garbage
 	}
 	else {
+		parseXML(data, function (err, r) {
+			if (r.System != undefined) {
+				var s = r.System;
 
-		debug("process",data);
+				if (s.MacAddress != undefined && e2.gotSyncup == false) {
+					e2.syncUp(s);
+				}
 
+			}
+			else {
+				debug("process","missing System tag. Dunnowhat.")
+			}
+		});
 	}
 
 	this.keepaliveOK(client);
