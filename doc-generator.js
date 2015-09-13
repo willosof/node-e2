@@ -1,3 +1,8 @@
+/*
+	Markdown Document Generator (from XML)
+	Copyright (c) 2015 William Viker
+*/
+
 var fs = require('fs');
 var parseXML = require('xml2js').parseString;
 

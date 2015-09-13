@@ -1,4 +1,4 @@
-* **[System](System)**
+**[System](System)**
 * **[NumOfVp](System.NumOfVp)**
 * **[SystemStreamMode](System.SystemStreamMode)**
 * **[AutoSave](System.AutoSave)**
